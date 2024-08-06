@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+pandas
+numpy
+altair
+nltk
+scikit-learn
+matplotlib
+wordcloud
+openpyxl
