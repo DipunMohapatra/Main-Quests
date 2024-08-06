@@ -1,0 +1,14 @@
+cython==
+streamlit
+pandas
+numpy
+statsmodels
+pmdarima
+scikit-learn
+plotly
+nltk
+wordcloud
+matplotlib
+openpyxl
+setuptools
+wheel
