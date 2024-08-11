@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+wordcloud
+matplotlib
+plotly
+scikit-learn
+openpyxl
